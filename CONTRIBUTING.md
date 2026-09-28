@@ -19,23 +19,31 @@ example because they want to include Klacks in a closed-source product. See
 
 Before we can accept your first pull request, you need to sign the
 [Klacks Contributor License Agreement](https://gist.github.com/HeribertG/d70c8e8b960c38d566518f25d8774b4d). It lets us keep
-Klacks open source under the AGPL and offer it under a commercial license at the same time. You keep the
-copyright in your contribution, and every accepted contribution stays available under the AGPL (section 7 of
-the CLA).
+Klacks open source under the AGPL and offer it under a commercial license at the same time. It is a
+non-exclusive license: you keep the copyright in your contribution and may use it in any other way. The text is
+based on the standard template of contributoragreements.org.
 
 Signing takes one minute: when you open a pull request, the CLA Assistant bot posts a link. Sign with your
 GitHub account, and the check turns green. You sign once, and it covers all Klacks repositories.
+
+If you contribute as part of your job, your employer needs to approve the CLA in writing. Send the approval to
+marketing@klacks-software.ch.
+
+**Privacy:** CLA Assistant is operated by SAP. When you sign, it stores your GitHub username, the date and time of
+signing and the version of the CLA, so that we can prove the agreement. See the
+[CLA Assistant privacy information](https://cla-assistant.io/) and SAP's privacy statement. Klacks Software keeps
+the list of signatures only for as long as the contributions are used.
 
 ## How to contribute
 
 1. Open an issue first for anything larger than a small fix, so we can agree on the approach.
 2. Fork the repository and create a branch from `main`.
 3. Keep the change focused. Add or update tests where it makes sense.
-4. Keep the file header on every new source file.
+4. Keep the file header on every new source file. You may add your own copyright line below it.
 5. Open a pull request against `main` and describe what changes and why.
 
 If parts of your contribution were written with the help of an AI tool, please review them carefully and say
-so in the pull request. The CLA (section 5) asks you to confirm that you are entitled to submit them.
+so in the pull request. The CLA covers only work in which you own the copyright.
 
 ## Questions
 
