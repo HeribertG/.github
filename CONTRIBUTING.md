@@ -23,6 +23,9 @@ Klacks open source under the AGPL and offer it under a commercial license at the
 non-exclusive license: you keep the copyright in your contribution and may use it in any other way. The text is
 based on the standard template of contributoragreements.org.
 
+Klacks is published under the AGPL and we intend to keep it that way. Contributions become part of the AGPL
+version. The CLA additionally allows us to offer Klacks under a commercial license, which funds its development.
+
 Signing takes one minute: when you open a pull request, the CLA Assistant bot posts a link. Sign with your
 GitHub account, and the check turns green. You sign once, and it covers all Klacks repositories.
 
